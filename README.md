@@ -30,7 +30,7 @@ The dataset contains information from 2008 to 2020 which I got provided from Web
 6. Desription of Movies/Tv-Shows
 * By using Filter, I made a description board of movies and tv shows.
 * I filtered the variables 'type' and 'title' & added the dropdown feature in the both the categorical variables wherein I could select any type and titles to view their details.
-* Hence I could have a glimpse just by a click of **description board of movies and tv shows's duration, Ratings, Upload date, and Genre**
+* Hence I could have a glimpse of **description board of movies and tv shows's duration, Ratings, Upload date, and Genre** just by a click.
 
 7. Dashboard
 * Last but not the least, I made dashboard to have better understanding of data overall and a apt clarity of insights.
