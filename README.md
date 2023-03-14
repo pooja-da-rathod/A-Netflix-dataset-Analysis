@@ -28,7 +28,6 @@ The dataset contains information from 2008 to 2020 which I got provided from Web
 * Whereas Rating 'Uc-17' has been given to only 2 content.
 
 6. Desription of Movies/Tv-Shows
-* By using Filter, I made a description board of movies and tv shows.
 * I filtered the variables 'type' and 'title' & added the dropdown feature in the both the categorical variables wherein I could select any type and titles to view their details.
 * Hence I could have a glimpse of **description board of movies and tv shows's duration, Ratings, Upload date, and Genre** just by a click.
 
