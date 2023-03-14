@@ -1,5 +1,5 @@
 # A-Netflix-dataset-Analysis
-Played with a Netflix Dataset in Tableau
+
 
 Netflix, Inc. is an American subscription video on-demand over-the-top streaming service and production company based in Los Gatos, California. Founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, it offers a film and television series library through distribution deals as well as its own productions, known as Netflix Originals.
 
